@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Mazighpf/static/css/main.2ebee335.css",
+    "main.js": "/Mazighpf/static/js/main.4af0f229.js",
+    "static/js/787.87f1d352.chunk.js": "/Mazighpf/static/js/787.87f1d352.chunk.js",
+    "static/media/polype.png": "/Mazighpf/static/media/polype.3e06c3503f679a129a75.png",
+    "static/media/maquette.png": "/Mazighpf/static/media/maquette.bd5a4592a14e6f89868c.png",
+    "static/media/gdd.png": "/Mazighpf/static/media/gdd.a15341bcf7c735715fe0.png",
+    "static/media/PLATES.png": "/Mazighpf/static/media/PLATES.b3f9e7619b79327db84f.png",
+    "static/media/cerist1.png": "/Mazighpf/static/media/cerist1.db268e410b0e717a1376.png",
+    "static/media/tour.jpg": "/Mazighpf/static/media/tour.68f05fb160bb23b9f04a.jpg",
+    "static/media/Screenshot 2023-09-30 182019.png": "/Mazighpf/static/media/Screenshot 2023-09-30 182019.665e19db24a699fd33fa.png",
+    "static/media/helvetica-neu.ttf": "/Mazighpf/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Mazighpf/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/Mazigh.png": "/Mazighpf/static/media/Mazigh.ce19b3287e2b8103b053.png",
+    "static/media/black.jpg": "/Mazighpf/static/media/black.1fa794898621b3925105.jpg",
+    "static/media/logo--m.jpg": "/Mazighpf/static/media/logo--m.562e3bb1e769d92646eb.jpg",
+    "static/media/CoolveticaRg-Regular.woff2": "/Mazighpf/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Mazighpf/index.html",
+    "main.2ebee335.css.map": "/Mazighpf/static/css/main.2ebee335.css.map",
+    "main.4af0f229.js.map": "/Mazighpf/static/js/main.4af0f229.js.map",
+    "787.87f1d352.chunk.js.map": "/Mazighpf/static/js/787.87f1d352.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ebee335.css",
+    "static/js/main.4af0f229.js"
+  ]
+}
